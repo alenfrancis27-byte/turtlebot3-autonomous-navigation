@@ -1,0 +1,11 @@
+Q1. What was your approach to the project?
+
+I used ROS 2 and the TurtleBot3 simulation in Gazebo to develop an autonomous navigation system. I integrated the Nav2 stack and RViz to visualize the robot, map, navigation path, and obstacles. I tested autonomous navigation by setting destination goals through RViz.
+
+Q2. What challenges did you face?
+
+The main challenges were configuring the ROS 2 environment, launching the Gazebo simulation, configuring Nav2, and ensuring proper communication between the robot and navigation stack. I also worked on understanding obstacle detection and path planning.
+
+Q3. What did you learn?
+
+I learned how to configure TurtleBot3 in Gazebo, use ROS 2 packages, integrate the Nav2 navigation stack, visualize robot navigation in RViz, and implement autonomous navigation with obstacle avoidance.
