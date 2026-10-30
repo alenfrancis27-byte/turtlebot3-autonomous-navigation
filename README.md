@@ -24,7 +24,7 @@ Launch Gazebo simulation.
 Launch Nav2.
 Set a navigation goal in RViz.
 
-Demo:
+Demo:https://github.com/alenfrancis27-byte/turtlebot3-autonomous-navigation/blob/main/Screencast%20from%202026-10-30%2019-05-29.webm
 
 
 Author:Alen Francis
